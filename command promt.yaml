@@ -1,0 +1,15 @@
+#how to run this python script in your terminal
+#//////////////////////////////////////////////
+
+# Open the terminal (Command Prompt or PowerShell).
+# Navigate to the directory where your script is located using the cd command. For example:
+# cd path\to\your\script
+# Run the script using the python command. For example:
+# python script_name.py
+# If your script is named bot temp.py and is located in Documents, you can run it with the following commands:
+
+# Open the terminal.
+# Navigate to the directory:
+# cd c:\Users\YOUR_USERNAME\Documents\
+# run the script
+
